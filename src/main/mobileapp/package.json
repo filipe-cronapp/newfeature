@@ -1,0 +1,12 @@
+{
+  "name": "io.cronapp.apps.cronapp3273",
+  "displayName": "CRONAPP-3273",
+  "version": "1.0.0",
+  "description": "CRONAPP-3273",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "CronApp IDE",
+  "license": "Apache-2.0"
+}
